@@ -31,7 +31,6 @@ With a strong focus on **AI, AIoT, and Edge AI**, I create real-world solutions 
 
 ### 🛠 Tech Stack
 
-```yaml
 Languages:    Python, C/C++, JavaScript, MATLAB
 Frameworks:   TensorFlow, PyTorch, OpenCV, React, Node.js, Express
 Embedded:     nRF52, Arduino, ESP32, Raspberry Pi
@@ -47,7 +46,7 @@ Project	Description	Tech
 🏠 Domotics Lab	Interactive dashboard for smart home	React, Node, Firebase
 🔬 AIxIoT Research	Scientific group innovations & prototypes	Embedded AI + Cloud
 
-📂 You can explore these in detail on my Portfolio and GitHub Projects
+📂 You can explore these in detail on my Portfolio and GitHub Projects 
 
 📌 Now Working On
 🧪 Weekly AIxIoT/Edge AI Projects (75-week challenge)
