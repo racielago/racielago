@@ -1,66 +1,59 @@
-<!-- Encabezado visual -->
+<!-- BANNER -->
 <p align="center">
-  <img src="assets/banner-for-readme.png" alt="banner" style="border-radius:10px"/>
+  <img src="asset/banner-for-readme.png" alt="Banner" />
 </p>
 
----
-
-<h2 align="center">👋 Welcome to my digital lab</h2>
-<h3 align="center">Shaping the Future with Smart Solutions</h3>
-
-<p align="center">
-  🚀 Electrical Engineer | AI & IoT Specialist | Embedded & Edge AI Innovator<br/>
-  🌍 Based in Cuba — aiming for Amsterdam 🇳🇱<br/>
-  💡 Creating sustainable, intelligent systems for energy, health, and agriculture
-</p>
+<h1 align="center">Hi, I'm Raciel David Lago 👋</h1>
+<h3 align="center">Shaping the Future with Smart Solutions — AI, Edge, and Intelligence for Sustainability</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-I’m **Raciel David Lago**, a passionate electrical engineer, software developer, and professor.  
-With a strong focus on **AI, AIoT, and Edge AI**, I create real-world solutions for **smart energy**, **precision agriculture**, **healthcare technology**, and **Industry 4.0**.
+I'm a Cuban Electrical Engineer, AI developer, and university professor specialized in **AIoT, Edge AI**, and smart energy/agriculture systems. Currently building intelligent, sustainable solutions that blend AI with embedded hardware, automation, and real-world impact.
 
-- 🧠 Founder of a scientific group researching **AI in Smart Grids**
-- 📡 Builder of prototypes: AIoT, BCI, sensors, firmware, control systems
-- 📘 Educator at University of Oriente, Cuba (Electrical Circuits & Embedded AI)
-- 🎮 Creator of indie games, interactive dashboards, and digital art
-- 🌱 Advocate of sustainability, open knowledge, and innovation
+- 🔬 AI/IoT/BCI researcher at Universidad de Oriente & Medical Biophysics Center
+- 🌱 Building intelligent farms, energy communities, and smart networks
+- 🚀 Passionate about Edge AI, brain-computer interfaces, and sustainable tech
+- 🌍 Looking for opportunities in the Netherlands (remote / relocation)
 
 ---
 
-### 🛠 Tech Stack
+### 🧠 Tech Stack & Focus
 
-Languages:    Python, C/C++, JavaScript, MATLAB
-Frameworks:   TensorFlow, PyTorch, OpenCV, React, Node.js, Express
-Embedded:     nRF52, Arduino, ESP32, Raspberry Pi
-AI/IoT:       TinyML, Edge Impulse, MQTT, BLE, OpenBCI, OpenViBE
-Tools:        Git, GitHub Actions, Docker, VS Code, Figma, Notion
-Cloud/Infra:  Firebase, Supabase, REST APIs, Grafana, CI/CD
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-nRF52-blue?style=flat&logo=nordicsemiconductor" />
+  <img src="https://img.shields.io/badge/-Edge%20AI-green?style=flat&logo=nvidia" />
+  <img src="https://img.shields.io/badge/-AIoT-00A67E?style=flat&logo=internetarchive" />
+  ...
+</p>
 
-🚀 Featured Projects
-Project	Description	Tech
-🌾 Smart Agro System	Edge AI for precision irrigation and crop monitoring	nRF52, Edge Impulse
-⚡ AI in Smart Grids	Forecasting, load balancing, energy analytics	Python, TensorFlow, Dash
-🧠 BCI Medical AI	Brain-Computer Interface for assistive tech	OpenBCI, OpenViBE, Python
-🏠 Domotics Lab	Interactive dashboard for smart home	React, Node, Firebase
-🔬 AIxIoT Research	Scientific group innovations & prototypes	Embedded AI + Cloud
+---
 
-📂 You can explore these in detail on my Portfolio and GitHub Projects 
+### 🚀 Featured Projects
 
-📌 Now Working On
-🧪 Weekly AIxIoT/Edge AI Projects (75-week challenge)
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🔋 `Smart Grid Community` | A living simulation of a smart energy system for AI testing | Python, Edge AI, Sensors |
+| 🌿 `AI-Driven Agriculture` | Edge AI models for crop health & smart irrigation | TensorFlow Lite, IoT |
+| 🧠 `BCI Interfaces` | Brain signal processing with OpenBCI and OpenViBE | Python, ML, Neuroscience |
 
-🧠 Medical AI & BCI Research at Medical Biophysics Center
+---
 
-⚙️ Academic smart grid model with real-time simulation
+### 📊 GitHub Stats
 
-🖋 Writing technical blogs & guides on AI, IoT, and automation
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RacielD&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RacielD&layout=compact&theme=dark" />
+</p>
 
-🌍 Preparing for global opportunities in Europe
+---
 
-🧭 Let's Connect
-<p align="center"> <a href="https://www.linkedin.com/in/racieldavidlago/"><img src="https://img.shields.io/badge/LinkedIn-RacielDavidLago-blue?logo=linkedin" /></a> <a href="https://racieldavid.github.io"><img src="https://img.shields.io/badge/Portfolio-RacielDavid-green?logo=githubpages" /></a> <a href="mailto:raciel.lago@gmail.com"><img src="https://img.shields.io/badge/Email-raciel.lago@gmail.com-informational?logo=gmail" /></a> <a href="https://github.com/RacielDavid"><img src="https://img.shields.io/github/followers/RacielDavid?label=GitHub&style=social" /></a> </p>
-🧠 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RacielDavid&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=RacielDavid&theme=tokyonight" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RacielDavid&layout=compact&theme=tokyonight" /> </p>
-<p align="center"> <em>“The best way to predict the future is to engineer it.”</em> </p> ```
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/racieldavid/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:raciel@email.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://racieldavid.github.io"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white" /></a>
+</p>
