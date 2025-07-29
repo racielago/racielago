@@ -1,6 +1,6 @@
 <!-- Encabezado visual -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RacielDavid/RacielDavid/main/assets/banner-for-readme.png" alt="banner" style="border-radius:10px"/>
+  <img src="assets/banner-for-readme.png" alt="banner" style="border-radius:10px"/>
 </p>
 
 ---
@@ -38,3 +38,30 @@ Embedded:     nRF52, Arduino, ESP32, Raspberry Pi
 AI/IoT:       TinyML, Edge Impulse, MQTT, BLE, OpenBCI, OpenViBE
 Tools:        Git, GitHub Actions, Docker, VS Code, Figma, Notion
 Cloud/Infra:  Firebase, Supabase, REST APIs, Grafana, CI/CD
+
+🚀 Featured Projects
+Project	Description	Tech
+🌾 Smart Agro System	Edge AI for precision irrigation and crop monitoring	nRF52, Edge Impulse
+⚡ AI in Smart Grids	Forecasting, load balancing, energy analytics	Python, TensorFlow, Dash
+🧠 BCI Medical AI	Brain-Computer Interface for assistive tech	OpenBCI, OpenViBE, Python
+🏠 Domotics Lab	Interactive dashboard for smart home	React, Node, Firebase
+🔬 AIxIoT Research	Scientific group innovations & prototypes	Embedded AI + Cloud
+
+📂 You can explore these in detail on my Portfolio and GitHub Projects
+
+📌 Now Working On
+🧪 Weekly AIxIoT/Edge AI Projects (75-week challenge)
+
+🧠 Medical AI & BCI Research at Medical Biophysics Center
+
+⚙️ Academic smart grid model with real-time simulation
+
+🖋 Writing technical blogs & guides on AI, IoT, and automation
+
+🌍 Preparing for global opportunities in Europe
+
+🧭 Let's Connect
+<p align="center"> <a href="https://www.linkedin.com/in/racieldavidlago/"><img src="https://img.shields.io/badge/LinkedIn-RacielDavidLago-blue?logo=linkedin" /></a> <a href="https://racieldavid.github.io"><img src="https://img.shields.io/badge/Portfolio-RacielDavid-green?logo=githubpages" /></a> <a href="mailto:raciel.lago@gmail.com"><img src="https://img.shields.io/badge/Email-raciel.lago@gmail.com-informational?logo=gmail" /></a> <a href="https://github.com/RacielDavid"><img src="https://img.shields.io/github/followers/RacielDavid?label=GitHub&style=social" /></a> </p>
+🧠 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RacielDavid&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=RacielDavid&theme=tokyonight" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RacielDavid&layout=compact&theme=tokyonight" /> </p>
+<p align="center"> <em>“The best way to predict the future is to engineer it.”</em> </p> ```
