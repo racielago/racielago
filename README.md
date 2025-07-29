@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="asset/banner-for-readme.png" alt="Banner" />
+  <img src="assets/banner-for-readme.png" alt="Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Raciel David Lago 👋</h1>
