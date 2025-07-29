@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Raciel David Lago 👋</h1>
-<h3 align="center">Shaping the Future with Smart Solutions — AI, Edge, and Intelligence for Sustainability</h3>
+<h3 align="center">Shaping the Future with Smart Solutions — AI, Edge AI, and Intelligence for Sustainability</h3>
 
 ---
 
