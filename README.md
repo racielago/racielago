@@ -16,8 +16,7 @@
 
 ### 👨‍💻 About Me
 
-I’m an **Electrical Engineer & AI/Edge AI Specialist** focused on developing **intelligent systems for energy, automation, and smart industry**.  
-My work blends **embedded AI, IoT, and real-time control** to design solutions that make **power systems, factories, and buildings smarter and more sustainable**.
+I’m an **Electrical Engineer & AI/Edge AI Specialist** focused on developing **intelligent systems for energy, automation, and smart industry**. My work blends **embedded AI, IoT, and real-time control** to design solutions that make **power systems, factories, and buildings smarter and more sustainable**.
 
 - ⚡ Designing **AIoT & Edge AI solutions** for **smart grids and energy communities**  
 - 🏭 Building **prototypes for industrial automation, predictive maintenance, and Industry 4.0**  
@@ -42,17 +41,23 @@ My work blends **embedded AI, IoT, and real-time control** to design solutions t
   <!-- <img src="https://img.shields.io/badge/-ONNX-005CED?style=flat&logo=onnx&logoColor=white" /> -->
 
   <!-- Embedded & IoT -->
-  <img src="https://img.shields.io/badge/-Nordic Semiconductors-00A9E0?style=flat&logo=nordicsemiconductor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embedded_Systems-0A9EFF?style=flat&logo=embedded&logoColor=white" />
+  <img src="https://img.shields.io/badge/ARM-0091BD?style=flat&logo=arm&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nordic-00A9E0?style=flat&logo=nordicsemiconductor&logoColor=white" />
   <img src="https://img.shields.io/badge/-ESP32-000000?style=flat&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white" />
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Edge%20AI-76B900?style=flat&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AIoT-00A67E?style=flat&logo=cloudflare&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/-Edge%20AI-76B900?style=flat&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AIoT-00A67E?style=flat&logo=cloudflare&logoColor=white" /> -->
 
   <!-- Energy & Industry -->
-  <img src="https://img.shields.io/badge/-Smart%20Grids-FFB400?style=flat&logo=siemens&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Smart Industry-0078D7?style=flat&logo=rockwellautomation&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Home Automation-6DB33F?style=flat&logo=homeassistant&logoColor=white" />
+  <img src="https://img.shields.io/badge/Edge_AI-76B900?style=flat&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT-8A2BE2?style=flat&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Energy_Sector-FF8C00?style=flat&logo=power&logoColor=white" />
+  <img src="https://img.shields.io/badge/Smart Industry-0078D7?style=flat&logo=industry&logoColor=white" />
+ <!-- <img src="https://img.shields.io/badge/-Smart%20Grids-FFB400?style=flat&logo=siemens&logoColor=white" /> -->
+ <!-- <img src="https://img.shields.io/badge/-Smart Industry-0078D7?style=flat&logo=rockwellautomation&logoColor=white" /> -->
+ <!-- <img src="https://img.shields.io/badge/-Home Automation-6DB33F?style=flat&logo=homeassistant&logoColor=white" /> -->
 
   <!-- Tools & DevOps -->
   <!-- <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
