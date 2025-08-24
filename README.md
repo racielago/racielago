@@ -3,7 +3,7 @@
   <img src="assets/banner.png" alt="Raciel D. Lago — AI & Edge AI Engineer"/>
 </p>
 
-<h1 align="center">👋 Hi, I'm Raciel David Lago</h1>
+<h1 align="center">👋 Hi, I'm Raciel D. Lago</h1>
 <h3 align="center">
   🚀 Electrical Engineer & AI/Edge AI Specialist | Building Intelligent Solutions for Energy ⚡, Industry 🏭, and Sustainability 🌱
 </h3>
