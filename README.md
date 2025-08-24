@@ -73,7 +73,7 @@ I’m an **Electrical Engineer & AI/Edge AI Specialist** focused on developing *
 **Tools:** Git, Docker, Linux, VS Code  -->
 
 ---
-
+<!--
 ### 🚀 Featured Projects  
 
 Here are some highlights of my work in **Edge AI, AIoT, and Smart Energy/Industry**.  
@@ -116,7 +116,7 @@ Puedes usar imágenes (mockups, diagramas, capturas) dentro de cada card. Ejempl
 
 **🏭 Industrial Edge AI**  
 *Prototypes for predictive maintenance and automation in Industry 4.0.*  
-**Tech:** C++ · TensorFlow Lite · Embedded AI  -->
+**Tech:** C++ · TensorFlow Lite · Embedded AI  
 ---
 
 ## ✍️ Blog & Writing  
@@ -134,14 +134,14 @@ Explore my full blog here 👉 [🔗 Visit My Blog](https://attheedge.super.site
 
 </div>
 
----
+--- 
 
 ### 📌 Quick Reads
 - [From Power Grids to Microcontrollers: My Edge AI Journey](https://yourbloglink.super.site/edge-ai-journey)  
 - [AIoT in Smart Agriculture: Lessons from Prototyping](https://yourbloglink.super.site/smart-agriculture)  
 - [Brain-Computer Interfaces: Early Experiments with OpenBCI](https://yourbloglink.super.site/bci-experiments)  
 
----
+--- -->
 
 ### 🌐 Connect With Me
 
