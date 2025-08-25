@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="assets/banner.png" alt="Raciel D. Lago — AI & Edge AI Engineer"/>
+  <img src="assets/banner-for-readme.png" alt="Raciel D. Lago — AI & Edge AI Engineer"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Raciel D. Lago</h1>
