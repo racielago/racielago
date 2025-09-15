@@ -72,6 +72,37 @@ I am an **Electrical & Embedded Systems Engineer** focused on developing **intel
  
 </p>
 
+### 🧠 Tech Stack & Focus
+
+<p align="center">
+  <!-- Languages & AI/ML -->
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat" />
+  
+  <!-- Embedded & IoT -->
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ESP32-000000?style=flat&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ARM-0091BD?style=flat&logo=arm&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nordic-00A9E0?style=flat&logo=nordicsemiconductor&logoColor=white" />
+  
+  <!-- Tools & DevOps -->
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+</p>
+
+**Focus Areas:** Smart Grids, Industrial Automation, Predictive Maintenance, Industry 4.0, AIoT, Edge AI
+
+
 <!-- **Core:** Python, C/C++, MATLAB  
 **AI & ML:** TensorFlow, PyTorch, Scikit-learn, ONNX  
 **Embedded & IoT:** ESP32, nRF52, Raspberry Pi, Arduino, Edge AI, AIoT  
