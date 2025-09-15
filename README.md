@@ -61,7 +61,7 @@ I am an **Electrical & Embedded Systems Engineer** focused on developing **intel
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
 
-    <!-- Energy & Industry -->
+  <!-- Energy & Industry -->
   <img src="https://img.shields.io/badge/Edge_AI-76B900?style=flat&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/IoT-8A2BE2?style=flat&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Energy_Sector-FF8C00?style=flat&logo=power&logoColor=white" />
