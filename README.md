@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Raciel D. Lago</h1>
 <h3 align="center">
-  🚀 Embedded Systems & AI Engineer · Building Edge-AI & IIoT for Smart Energy ⚡
+  Embedded Systems & AI Engineer · Building Edge-AI & IIoT for Smart Energy ⚡
 </h3>
 
 <p align="center">
@@ -59,51 +59,64 @@ I am an **Electrical & Embedded Systems Engineer** focused on developing **intel
 **Focus Areas:** Smart Grids, Industrial Automation, Predictive Maintenance, Smart Industry, AIoT, Edge AI
 
 ---
+
+### 🚀 Featured Projects
+Here are some highlights of my work
+(*More projects coming soon as I keep building and publishing prototypes.*)
+
+### [Nombre del Proyecto 1](https://github.com/tu-usuario/repositorio-1)
+<div align="center">
+  <img src="assets/banner-for-readme.png" alt="Raciel D. Lago — AI & Edge AI Engineer" alt="Demo Project 1" width="45%" align="left" style="margin-right: 5%;">
+  <p align="justify">
+    Descripción breve del proyecto. Explica qué problema resuelve, qué tecnologías usaste (Edge AI, Python, ESP32, etc.) y cuál fue tu rol. Incluye logros clave si los hay. Mantén este texto conciso pero informativo.
+  </p>
+  <p>
+    <strong>Tecnologías:</strong> Python, TensorFlow Lite, ESP32, C++
+    <br>
+    <strong>Demo:</strong> <a href="https://tu-demo.com">Enlace vivo</a> | <strong>Código:</strong> <a href="https://github.com/tu-usuario/repo">Repositorio</a>
+  </p>
+</div>
+
+<br clear="both">
+
+### [Nombre del Proyecto 2](https://github.com/tu-usuario/repositorio-2)
+<div align="center">
+  <img src="assets/banner-for-readme.png" alt="Raciel D. Lago — AI & Edge AI Engineer" alt="Demo Project 2" width="45%" align="right" style="margin-left: 5%;">
+  <p align="justify">
+    Descripción breve del segundo proyecto. Para proyectos en desarrollo, menciona el estado actual (ej: "En progreso", "Fase de pruebas") y qué funcionalidades están implementadas.
+  </p>
+  <p>
+    <strong>Tecnologías:</strong> PyTorch, Raspberry Pi, AWS IoT
+    <br>
+    <strong>Estado:</strong> 🚧 En desarrollo | <strong>Código:</strong> <a href="https://github.com/tu-usuario/repo">Repositorio</a>
+  </p>
+</div>
+
+<br clear="both">
+
+---
+
+### 📝 Blog & Articles
+
+Check out my latest articles on AI, Embedded Systems, and Smart Energy:
+
+- **[Integrating Edge AI in Smart Grids](https://medium.com/@raciel/integrating-edge-ai-in-smart-grids-123456)**  
+  How Edge AI can optimize energy distribution and predictive maintenance in microgrids.
+
+- **[AIoT for Industrial Automation](https://medium.com/@raciel/aiot-for-industrial-automation-789012)**  
+  Practical examples of combining AI and IoT for Industry 4.0 applications.
+
+- **[Embedded AI Algorithms on Microcontrollers](https://medium.com/@raciel/embedded-ai-algorithms-345678)**  
+  Step-by-step tutorial: running AI models on low-power embedded devices.
+
+📖 Read more on my [Blog](https://racielago.github.io/portfolio/blog) for tutorials, case studies, and projects.
+
+
+
+---
+
 <!--
-### 🚀 Featured Projects  
 
-Here are some highlights of my work in **Edge AI, AIoT, and Smart Energy/Industry**.  
-(*More projects coming soon as I keep building and publishing prototypes.*)  
-
-🔋 **Smart Grid Community**  
-*Interactive simulation of a smart energy system for testing AI algorithms, load management, and microgrids.*  
-**Tech:** Python · Edge AI · IoT Sensors  
-
----
-
-🏭 **Industrial Edge AI**  
-*Prototypes for predictive maintenance and automation in Industry 4.0.*  
-**Tech:** C++ · TensorFlow Lite · Embedded AI  
-
----
-
-🏠 **Smart Home Controller**  
-*AI-powered embedded system for domotics, energy monitoring, and automation.*  
-**Tech:** ESP32 · MQTT · Edge AI  
-
-<!-- Cards con imágenes (el más atractivo)
-
-Puedes usar imágenes (mockups, diagramas, capturas) dentro de cada card. Ejemplo: -->
-<!-- ### 🚀 Featured Projects  
-
-<p align="center">
-  <img src="assets/smartgrid.png" alt="Smart Grid Project" width="600"/>
-</p>
-
-**🔋 Smart Grid Community**  
-*Interactive simulation of a smart energy system for testing AI algorithms, load management, and microgrids.*  
-**Tech:** Python · Edge AI · IoT Sensors  
-
----
-
-<p align="center">
-  <img src="assets/industrial.png" alt="Industrial AI Project" width="600"/>
-</p>
-
-**🏭 Industrial Edge AI**  
-*Prototypes for predictive maintenance and automation in Industry 4.0.*  
-**Tech:** C++ · TensorFlow Lite · Embedded AI  
----
 
 ## ✍️ Blog & Writing  
 
