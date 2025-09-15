@@ -36,6 +36,7 @@ I am an **Electrical & Embedded Systems Engineer** focused on developing **intel
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-C/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white" />
+  ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 
   <!-- AI & ML -->
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
@@ -67,24 +68,6 @@ I am an **Electrical & Embedded Systems Engineer** focused on developing **intel
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" /> -->
-</p>
-
-### Tech Stack
-#### Languages & AI
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=matlab&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat)
-
-#### Embedded Systems & IoT
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/-ESP32-0082C9?style=flat)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
-![Nordic Semiconductor](https://img.shields.io/badge/-Nordic-0055B7?style=flat)
 
 #### Dev Tools & Workflow
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -92,8 +75,9 @@ I am an **Electrical & Embedded Systems Engineer** focused on developing **intel
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+  
+</p>
 
----
 <!-- **Core:** Python, C/C++, MATLAB  
 **AI & ML:** TensorFlow, PyTorch, Scikit-learn, ONNX  
 **Embedded & IoT:** ESP32, nRF52, Raspberry Pi, Arduino, Edge AI, AIoT  
