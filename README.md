@@ -36,7 +36,7 @@ I am an **Electrical & Embedded Systems Engineer** focused on developing **intel
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-C/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white" />
-  ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+  <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white" />
 
   <!-- AI & ML -->
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
@@ -54,7 +54,14 @@ I am an **Electrical & Embedded Systems Engineer** focused on developing **intel
   <!-- <img src="https://img.shields.io/badge/-Edge%20AI-76B900?style=flat&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/-AIoT-00A67E?style=flat&logo=cloudflare&logoColor=white" /> -->
 
-  <!-- Energy & Industry -->
+  <!-- Tools & DevOps -->
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+
+    <!-- Energy & Industry -->
   <img src="https://img.shields.io/badge/Edge_AI-76B900?style=flat&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/IoT-8A2BE2?style=flat&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Energy_Sector-FF8C00?style=flat&logo=power&logoColor=white" />
@@ -62,20 +69,7 @@ I am an **Electrical & Embedded Systems Engineer** focused on developing **intel
  <!-- <img src="https://img.shields.io/badge/-Smart%20Grids-FFB400?style=flat&logo=siemens&logoColor=white" /> -->
  <!-- <img src="https://img.shields.io/badge/-Smart Industry-0078D7?style=flat&logo=rockwellautomation&logoColor=white" /> -->
  <!-- <img src="https://img.shields.io/badge/-Home Automation-6DB33F?style=flat&logo=homeassistant&logoColor=white" /> -->
-
-  <!-- Tools & DevOps -->
-  <!-- <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" /> -->
-
-#### Dev Tools & Workflow
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-  
+ 
 </p>
 
 <!-- **Core:** Python, C/C++, MATLAB  
