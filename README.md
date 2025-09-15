@@ -1,8 +1,3 @@
-<!-- BANNER -->
-<p align="center">
-  <img src="assets/banner-for-readme.png" alt="Raciel D. Lago — AI & Edge AI Engineer"/>
-</p>
-
 <h1 align="center">👋 Hi, I'm Raciel D. Lago</h1>
 <h3 align="center">
   🚀 Embedded Systems & AI Engineer · Building Edge-AI & IIoT for Smart Energy ⚡
@@ -10,6 +5,11 @@
 
 <p align="center">
   <em>"Shaping the Future with Smart Solutions"</em>
+</p>
+
+<!-- BANNER -->
+<p align="center">
+  <img src="assets/banner-for-readme.png" alt="Raciel D. Lago — AI & Edge AI Engineer"/>
 </p>
 
 ---
@@ -22,8 +22,10 @@ I am an **Electrical & Embedded Systems Engineer** focused on developing **intel
 - ⚡ Designing **AIoT & Edge AI solutions** for **smart grids and energy communities**  
 - 🏭 Building **prototypes for industrial automation, predictive maintenance, and Industry 4.0**  
 - 🏠 Exploring **intelligent control in smart homes and buildings**  
-- 🔧 Passionate about turning **AI algorithms into working embedded prototypes**  
-<!-- - 🌍 Open to collaborations & opportunities in the Netherlands (remote or relocation) -->
+- 🔧 Passionate about turning **AI algorithms into working embedded prototypes**
+- 🌍 Open to collaborations, freelance projects & new opportunities 
+- 🔗 Check out my [portfolio](https://racielago.github.io/portfolio/) for projects and examples
+<!-- - -->
 
 ---
 
