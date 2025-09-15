@@ -5,7 +5,7 @@
 
 <h1 align="center">👋 Hi, I'm Raciel D. Lago</h1>
 <h3 align="center">
-  🚀 Electrical Engineer & AI/Edge AI Specialist | Building Intelligent Solutions for Energy ⚡, Industry 🏭, and Sustainability 🌱
+  🚀 Embedded Systems & AI Engineer · Building Edge-AI & IIoT for Smart Energy ⚡
 </h3>
 
 <p align="center">
@@ -16,7 +16,8 @@
 
 ### 👨‍💻 About Me
 
-I’m an **Electrical Engineer & AI/Edge AI Specialist** focused on developing **intelligent systems for energy, automation, and smart industry**. My work blends **embedded AI, IoT, and real-time control** to design solutions that make **power systems, factories, and buildings smarter and more sustainable**.
+I am an **Electrical & Embedded Systems Engineer** focused on developing **intelligent systems for energy, automation, and smart industry**. My work blends **embedded AI, IoT, and real-time control** to design solutions that make **power systems, factories, and buildings smarter and more sustainable**. Open to **collaborations, open-source contributions, and experimenting with new technologies**.
+
 
 - ⚡ Designing **AIoT & Edge AI solutions** for **smart grids and energy communities**  
 - 🏭 Building **prototypes for industrial automation, predictive maintenance, and Industry 4.0**  
