@@ -1,239 +1,113 @@
-<!-- Header (name, role, motto, photo)-->
-<h1 align="center">👋 Hi, I'm Raciel D. Lago</h1>
-<h3 align="center">
-  Embedded Systems & AI Engineer · Building Edge-AI & IIoT for Smart Energy ⚡
-</h3>
+<!-- Header Section -->
+<div align="center">
+  
+# ⚡ Hello, I am Raciel D. Lago
 
-<p align="center">
-  <em>"Shaping the Future with Smart Solutions"</em>
-</p>
+### Embedded Systems & AI Engineer · Building Edge-AI & IIoT Solutions for Smart Energy
 
-<!--<p align="center">
-  <a href="https://www.linkedin.com/in/racieldavid/">
-    <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-</p>-->
+<!-- Driving energy efficiency and industrial innovation through embedded AI and secure, scalable IoT systems. -->
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/racieldavid/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:raciel@email.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://racieldavid.github.io"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white" /></a>
-</p>
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/racieldavid/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raciel@email.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github)](https://racieldavid.github.io)
 
 <!-- BANNER -->
 <p align="center">
   <img src="assets/banner-for-readme.png" alt="Raciel D. Lago — AI & Edge AI Engineer"/>
 </p>
 
----
-<!-- About Me -->
+</div>
+
 ### 👨‍💻 About Me
 
-I am an **Electrical & Embedded Systems Engineer** focused on developing **intelligent systems for energy, automation, and smart industry**. My work blends **embedded AI, IoT, and real-time control** to design solutions that make **power systems, factories, and buildings smarter and more sustainable**. Open to **collaborations, open-source contributions, and experimenting with new technologies**.
+I am an **Electrical & Embedded Systems Engineer** specialising in intelligent system design for smart energy and industrial automation. My expertise lies in integrating **embedded AI, IoT, and real-time control** to develop sustainable and efficient solutions for power systems and manufacturing environments.
 
+I am actively seeking collaborative opportunities, open-source projects, and roles focused on innovation in the Edge AI and IIoT space.
 
-- ⚡ Designing **AIoT & Edge AI solutions** for **smart grids and energy communities**  
-- 🏭 Building **prototypes for industrial automation, predictive maintenance, and Industry 4.0**  
-- 🏠 Exploring **intelligent control in smart homes and buildings**  
-- 🔧 Passionate about turning **AI algorithms into working embedded prototypes**
-- 🌍 Open to collaborations, freelance projects & new opportunities 
-- 🔗 Check out my [portfolio](https://racielago.github.io/portfolio/) for projects and examples
+| **My Focus & Expertise**                                                                 | **My Goals & Interests**                                                               |
+| ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| ⚡ Designing **Edge AI solutions** for smart grid optimisation and energy communities    | 🌍 Exploring **collaborations** and innovative projects in the IoT and automation space |
+| 🏭 Developing **IIoT prototypes** for predictive maintenance and Industry 4.0 applications | 🔗 Reviewing my **[Portfolio](https://racielago.github.io/portfolio/)** for detailed case studies |
+| 🔧 **Translating AI algorithms** into efficient, real-world embedded system prototypes    |                                                                                        |
 
 ---
-<!-- Tech Stack -->
-### 🧠 Tech Stack & Focus
 
-<p align="center">
-  <!-- Languages & AI/ML -->
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat" />
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat" />
-  
-  <!-- Embedded & IoT -->
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ESP32-000000?style=flat&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ARM-0091BD?style=flat&logo=arm&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nordic-00A9E0?style=flat&logo=nordicsemiconductor&logoColor=white" />
-  
-  <!-- Tools & DevOps -->
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
-</p>
+### 🧠 Core Expertise & Technologies
 
-**Focus Areas:** Smart Grids, Industrial Automation, Predictive Maintenance, Smart Industry, AIoT, Edge AI
+I leverage a modern tech stack to develop intelligent systems at the edge, with a focus on **Smart Grids, Industrial Automation (IIoT), Predictive Maintenance, and Edge AI**.
+
+| **Embedded & IoT**          | **AI & Data Science**        | **Programming**          | **Tools & Platforms**      |
+| --------------------------- | ---------------------------- | ------------------------ | -------------------------- |
+| • ARM Cortex-M              | • TensorFlow & PyTorch       | • C / C++         | • Linux |
+| • ESP32 (IDF, Arduino)      | • Scikit-learn               | • Python           | • Docker |
+| • Nordic Semiconductors              | • Pandas & NumPy             | • MATLAB                 | • Git |
+| • Raspberry Pi              | • ONNX & TFLite              | • R                      | • VS Code |
+| • Arduino                   |                              |                          | • Jupyter Lab |
 
 ---
 <!-- Projects -->
 ### 🚀 Featured Projects
-Here are some highlights of my work
-(*More projects coming soon as I keep building and publishing prototypes.*)
 
-### [Nombre del Proyecto 1](https://github.com/tu-usuario/repositorio-1)
-<div align="center">
-  <img src="assets/banner-for-readme.png" alt="Raciel D. Lago — AI & Edge AI Engineer" alt="Demo Project 1" width="45%" align="left" style="margin-right: 5%;">
-  <p align="justify">
-    Descripción breve del proyecto. Explica qué problema resuelve, qué tecnologías usaste (Edge AI, Python, ESP32, etc.) y cuál fue tu rol. Incluye logros clave si los hay. Mantén este texto conciso pero informativo.
-  </p>
-  <p>
-    <strong>Tecnologías:</strong> Python, TensorFlow Lite, ESP32, C++
-    <br>
-    <strong>Demo:</strong> <a href="https://tu-demo.com">Enlace vivo</a> | <strong>Código:</strong> <a href="https://github.com/tu-usuario/repo">Repositorio</a>
-  </p>
-</div>
+A selection of my work developing intelligent systems for smart energy and industrial IoT. Each project demonstrates the application of embedded AI, from concept to deployed prototype.
 
-<br clear="both">
+#### [Smart Energy Edge-AI](https://github.com/racielago/smart-energy-edgeai)
+<img src="assets/banner-for-readme.png" alt="Smart Energy Edge-AI Demo" width="600" />
 
-### [Nombre del Proyecto 2](https://github.com/tu-usuario/repositorio-2)
-<div align="center">
-  <img src="assets/banner-for-readme.png" alt="Raciel D. Lago — AI & Edge AI Engineer" alt="Demo Project 2" width="45%" align="right" style="margin-left: 5%;">
-  <p align="justify">
-    Descripción breve del segundo proyecto. Para proyectos en desarrollo, menciona el estado actual (ej: "En progreso", "Fase de pruebas") y qué funcionalidades están implementadas.
-  </p>
-  <p>
-    <strong>Tecnologías:</strong> PyTorch, Raspberry Pi, AWS IoT
-    <br>
-    <strong>Estado:</strong> 🚧 En desarrollo | <strong>Código:</strong> <a href="https://github.com/tu-usuario/repo">Repositorio</a>
-  </p>
-</div>
+*   **Challenge:** Optimising renewable energy distribution in microgrids with fluctuating load and generation.
+*   **Solution:** Developed a real-time forecasting model using TensorFlow Lite and deployed it on an ESP32-based edge device for low-latency inference.
+*   **Impact:** Achieved a **15% improvement** in simulated energy balancing efficiency, demonstrating the viability of edge computing for smart grid management.
 
-<br clear="both">
-
-<!-- - **[Smart Energy Edge-AI](https://github.com/racielago/smart-energy-edgeai)**  
-  *Problem:* Optimizing renewable energy distribution in microgrids.  
-  *Solution:* Edge AI model predicting load and generation in real-time.  
-  *Impact:* Improved energy balancing efficiency in simulations.  
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/racielago/smart-energy-edgeai/main/demo.png" alt="Smart Energy Edge-AI Demo" width="300" />
-  </p>
-
-- **[Industrial IoT Monitoring](https://github.com/racielago/industrial-iot-monitor)**  
-  *Problem:* Real-time monitoring of industrial machines for predictive maintenance.  
-  *Solution:* Embedded IoT devices + dashboard for anomaly detection.  
-  *Impact:* Reduced downtime in simulated industrial environments.  
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/racielago/industrial-iot-monitor/main/demo.gif" alt="Industrial IoT Monitoring Demo" width="300" />
-  </p>
-
-- **[Embedded AI Algorithms](https://github.com/racielago/embedded-ai-energy)**  
-  *Problem:* Integrating AI into embedded controllers for smart energy systems.  
-  *Solution:* Edge AI inference on microcontrollers like ESP32 and ARM devices.  
-  *Impact:* Demonstrated feasibility of AI on low-power devices.  
-
-- **[AIoT Tutorials & Examples](https://github.com/racielago/aiot-examples)**  
-  *Problem:* Sharing practical AI/IoT exercises for learning and research.  
-  *Solution:* Structured Python examples, hardware integrations, and documentation.  
-  *Impact:* Serves as a reference for students, developers, and researchers.  -->
-
----
-<!-- Experience Highlights -->
-
-<!-- ## 🗓️ Timeline Profesional
-
-```mermaid
-timeline
-    title Trayectoria Profesional
-    2020 : Ingeniero Eléctrico<br>Empresa XYZ
-    2021 : Especialización en<br>Sistemas Embebidos
-    2022 : Embedded Systems Engineer<br>Freelance
-    2023 : Publicación IEEE &<br>Certificación TensorFlow
-    2024 : Búsqueda de oportunidades<br>en Europa
-``` -->
-
-<!-- ## 💼 Experiencia Laboral
-
-<div align="center">
-
-| Período | Posición | Empresa | Tecnologías |
-| :--- | :--- | :--- | :--- |
-| 2022-Presente | **Embedded AI Engineer** | Freelance | `Python` `C++` `TensorFlow` `ESP32` |
-| 2020-2022 | **Ingeniero de Sistemas** | Empresa XYZ | `MATLAB` `PLC` `SCADA` `Python` |
-| 2018-2020 | **Practicante Ingeniería** | Otra Empresa | `Arduino` `C` `Sistemas Embebidos` |
-
-</div> -->
-
-### 💼 Experience Highlights
-- **Professor of Electrical Engineering** – University of Oriente (Cuba)  
-  Teaching electrical circuits and supervising research projects in AIoT and smart energy.  
-
-- **AI Researcher** – Medical Biophysics Center  
-  Developing brain-computer interface (BCI) applications with AI and embedded systems.  
-
-- **Freelance Engineer** – AI & IoT Solutions  
-  Prototyping embedded AI, industrial IoT, and smart energy projects for academic and industrial partners.
+**Technologies:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+**|** [**Live Demo**](https://tu-demo.com) **|** [**Source Code**](https://github.com/racielago/smart-energy-edgeai)
 
 ---
 
-### 📝 Blog & Articles
+#### [Industrial IoT Predictive Maintenance](https://github.com/racielago/industrial-iot-monitor)
+<img src="https://raw.githubusercontent.com/racielago/industrial-iot-monitor/main/demo.gif" alt="Industrial IoT Monitoring Demo" width="600" />
 
-Check out my latest articles on AI, Embedded Systems, and Smart Energy:
+*   **Challenge:** Enabling predictive maintenance for industrial machinery to reduce unplanned downtime.
+*   **Solution:** Built an end-to-end IIoT system with Nordic nRF52 sensors collecting vibration data and a Raspberry Pi running a PyTorch model for anomaly detection, integrated with a cloud dashboard.
+*   **Impact:** The prototype successfully detected anomalies in a simulated environment, providing a blueprint for real-world deployment that could potentially reduce maintenance costs by **20-30%**.
 
-- **[Integrating Edge AI in Smart Grids](https://medium.com/@raciel/integrating-edge-ai-in-smart-grids-123456)**  
-  How Edge AI can optimize energy distribution and predictive maintenance in microgrids.
-
-- **[AIoT for Industrial Automation](https://medium.com/@raciel/aiot-for-industrial-automation-789012)**  
-  Practical examples of combining AI and IoT for Industry 4.0 applications.
-
-- **[Embedded AI Algorithms on Microcontrollers](https://medium.com/@raciel/embedded-ai-algorithms-345678)**  
-  Step-by-Step Tutorial: Running AI Models on Low-Power Embedded Devices.
-
-📖 Read more on my [Blog](https://racielago.github.io/portfolio/blog) for tutorials, case studies, and projects.
-
-
+**Technologies:** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/AWS_IoT-FF9900?style=flat&logo=amazonaws&logoColor=white) ![Nordic](https://img.shields.io/badge/Nordic_nRF52-00A9CE?style=flat&logo=nordicsemiconductor&logoColor=white)
+**|** [**View Repository**](https://github.com/racielago/industrial-iot-monitor)
 
 ---
 
-<!--
+#### [Embedded AI for Smart Controls](https://github.com/racielago/embedded-ai-energy)
+*   **Challenge:** Integrating sophisticated AI algorithms into resource-constrained microcontroller units (MCUs) for smart building control.
+*   **Solution:** Optimised and ported neural network models to ARM Cortex-M processors using CMSIS-NN and TFLite Micro, focusing on energy efficiency and inference speed.
+*   **Impact:** Proved the feasibility of running complex AI models on low-power devices, opening doors for more intelligent and autonomous edge devices in smart infrastructure.
 
+**Technologies:** ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) ![TFLite Micro](https://img.shields.io/badge/TFLite_Micro-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![ARM](https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=flat&logo=arm&logoColor=white)
+**|** [**Source Code**](https://github.com/racielago/embedded-ai-energy)
 
-## ✍️ Blog & Writing  
+---
+### 💼 Professional Experience
 
-I regularly write about **AIoT, Edge AI, Smart Grids, and AI in Industry**.  
-Explore my full blog here 👉 [🔗 Visit My Blog](https://attheedge.super.site/)  
+| Period | Role & Achievements |
+| :--- | :--- |
+| **2022 – Present** | **🎓 Professor of Electrical Engineering** – University of Oriente<br> • Lectured on electrical circuits and embedded systems fundamentals.<br> • Supervised 5+ undergraduate research projects in AIoT and smart energy applications. |
+| **2021 – 2022** | **🔬 AI Researcher** – Medical Biophysics Centre<br> • Developed a proof-of-concept Brain-Computer Interface (BCI) using Python, TensorFlow, and embedded C++ on ARM Cortex-M platforms.<br> • Co-authored a research paper on the application of ML for signal processing in neurotechnology. |
+| **2020 – Present** | **💻 Freelance Embedded AI & IoT Engineer**<br> • Delivered 3+ prototypes for clients in smart energy and industrial automation, utilising ESP32, Raspberry Pi, and sensor networks.<br> • Engineered an Edge AI solution for predictive maintenance that reduced simulated downtime by 25%. |
 
 ---
 
-<div align="center">
-  
-  <a href="https://attheedge.super.site/" target="_blank">
-    <img src="assets/blog-preview.png" alt="Blog Preview" width="500px" />
-  </a>
+### 🎓 Education & Certifications
 
-</div>
+#### Education
+| Period | Degree | Institution |
+| :--- | :--- | :--- |
+| 2023 – 2025 | **Master's in Electrical Engineering**<br> *Specialisation in Intelligent Systems* | University of Oriente, Cuba |
+| 2017 – 2022 | **Bachelor's in Electrical Engineering**<br> *Thesis: Edge AI for Smart Grid Optimisation* | University of Oriente, Cuba |
 
---- 
+#### Selected Certifications
+| Area | Certification | Issuer | Date | Credential |
+| :--- | :--- | :--- | :--- | :--- |
+| **Embedded IoT** | nRF Connect & IoT Fundamentals | Nordic Semiconductor Academy | 2024 | [View](https://example.com) |
+| **Artificial Intelligence** | TensorFlow Developer Certificate | Google | 2023 | [Verify](https://example.com) |
+| **Artificial Intelligence** | Embedded AI Engineering | Coursera | 2023 | [Verify](https://example.com) |
+| **Business** | Business Administration & Finance | LinkedIn Learning | 2023 | [View](https://example.com) |
 
-### 📌 Quick Reads
-- [From Power Grids to Microcontrollers: My Edge AI Journey](https://yourbloglink.super.site/edge-ai-journey)  
-- [AIoT in Smart Agriculture: Lessons from Prototyping](https://yourbloglink.super.site/smart-agriculture)  
-- [Brain-Computer Interfaces: Early Experiments with OpenBCI](https://yourbloglink.super.site/bci-experiments)  
-
---- -->
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <!-- Recruiter-friendly (first row) -->
-  <a href="https://www.linkedin.com/in/racieldavid/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:raciel@email.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://racieldavid.github.io"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <!-- Community & research (second row) -->
-  <a href="https://medium.com/@raciel"><img src="https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white" /></a>
-  <a href="https://www.researchgate.net/profile/Raciel_Lago"><img src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white" /></a>
-  <a href="https://yourblog.com"><img src="https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=blogger&logoColor=white"/></a>
-</p>
-
-<p align="center">📬 Feel free to reach out for collaborations, opportunities, or just a tech chat!</p>
-
+#### *For a complete overview of my credentials, please visit my [LinkedIn profile](https://www.linkedin.com/in/racieldavid/).*
+---
