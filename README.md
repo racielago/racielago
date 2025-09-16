@@ -1,3 +1,4 @@
+<!-- Header (name, role, motto, photo)-->
 <h1 align="center">👋 Hi, I'm Raciel D. Lago</h1>
 <h3 align="center">
   Embedded Systems & AI Engineer · Building Edge-AI & IIoT for Smart Energy ⚡
@@ -7,13 +8,26 @@
   <em>"Shaping the Future with Smart Solutions"</em>
 </p>
 
+<!--<p align="center">
+  <a href="https://www.linkedin.com/in/racieldavid/">
+    <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+</p>-->
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/racieldavid/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:raciel@email.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://racieldavid.github.io"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white" /></a>
+</p>
+
+
 <!-- BANNER -->
 <p align="center">
   <img src="assets/banner-for-readme.png" alt="Raciel D. Lago — AI & Edge AI Engineer"/>
 </p>
 
 ---
-
+<!-- About Me -->
 ### 👨‍💻 About Me
 
 I am an **Electrical & Embedded Systems Engineer** focused on developing **intelligent systems for energy, automation, and smart industry**. My work blends **embedded AI, IoT, and real-time control** to design solutions that make **power systems, factories, and buildings smarter and more sustainable**. Open to **collaborations, open-source contributions, and experimenting with new technologies**.
@@ -25,9 +39,9 @@ I am an **Electrical & Embedded Systems Engineer** focused on developing **intel
 - 🔧 Passionate about turning **AI algorithms into working embedded prototypes**
 - 🌍 Open to collaborations, freelance projects & new opportunities 
 - 🔗 Check out my [portfolio](https://racielago.github.io/portfolio/) for projects and examples
-<!-- - -->
 
 ---
+<!-- Tech Stack -->
 ### 🧠 Tech Stack & Focus
 
 <p align="center">
@@ -59,7 +73,7 @@ I am an **Electrical & Embedded Systems Engineer** focused on developing **intel
 **Focus Areas:** Smart Grids, Industrial Automation, Predictive Maintenance, Smart Industry, AIoT, Edge AI
 
 ---
-
+<!-- Projects -->
 ### 🚀 Featured Projects
 Here are some highlights of my work
 (*More projects coming soon as I keep building and publishing prototypes.*)
@@ -94,6 +108,69 @@ Here are some highlights of my work
 
 <br clear="both">
 
+<!-- - **[Smart Energy Edge-AI](https://github.com/racielago/smart-energy-edgeai)**  
+  *Problem:* Optimizing renewable energy distribution in microgrids.  
+  *Solution:* Edge AI model predicting load and generation in real-time.  
+  *Impact:* Improved energy balancing efficiency in simulations.  
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/racielago/smart-energy-edgeai/main/demo.png" alt="Smart Energy Edge-AI Demo" width="300" />
+  </p>
+
+- **[Industrial IoT Monitoring](https://github.com/racielago/industrial-iot-monitor)**  
+  *Problem:* Real-time monitoring of industrial machines for predictive maintenance.  
+  *Solution:* Embedded IoT devices + dashboard for anomaly detection.  
+  *Impact:* Reduced downtime in simulated industrial environments.  
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/racielago/industrial-iot-monitor/main/demo.gif" alt="Industrial IoT Monitoring Demo" width="300" />
+  </p>
+
+- **[Embedded AI Algorithms](https://github.com/racielago/embedded-ai-energy)**  
+  *Problem:* Integrating AI into embedded controllers for smart energy systems.  
+  *Solution:* Edge AI inference on microcontrollers like ESP32 and ARM devices.  
+  *Impact:* Demonstrated feasibility of AI on low-power devices.  
+
+- **[AIoT Tutorials & Examples](https://github.com/racielago/aiot-examples)**  
+  *Problem:* Sharing practical AI/IoT exercises for learning and research.  
+  *Solution:* Structured Python examples, hardware integrations, and documentation.  
+  *Impact:* Serves as a reference for students, developers, and researchers.  -->
+
+---
+<!-- Experience Highlights -->
+
+<!-- ## 🗓️ Timeline Profesional
+
+```mermaid
+timeline
+    title Trayectoria Profesional
+    2020 : Ingeniero Eléctrico<br>Empresa XYZ
+    2021 : Especialización en<br>Sistemas Embebidos
+    2022 : Embedded Systems Engineer<br>Freelance
+    2023 : Publicación IEEE &<br>Certificación TensorFlow
+    2024 : Búsqueda de oportunidades<br>en Europa
+``` -->
+
+<!-- ## 💼 Experiencia Laboral
+
+<div align="center">
+
+| Período | Posición | Empresa | Tecnologías |
+| :--- | :--- | :--- | :--- |
+| 2022-Presente | **Embedded AI Engineer** | Freelance | `Python` `C++` `TensorFlow` `ESP32` |
+| 2020-2022 | **Ingeniero de Sistemas** | Empresa XYZ | `MATLAB` `PLC` `SCADA` `Python` |
+| 2018-2020 | **Practicante Ingeniería** | Otra Empresa | `Arduino` `C` `Sistemas Embebidos` |
+
+</div> -->
+
+### 💼 Experience Highlights
+- **Professor of Electrical Engineering** – University of Oriente (Cuba)  
+  Teaching electrical circuits and supervising research projects in AIoT and smart energy.  
+
+- **AI Researcher** – Medical Biophysics Center  
+  Developing brain-computer interface (BCI) applications with AI and embedded systems.  
+
+- **Freelance Engineer** – AI & IoT Solutions  
+  Prototyping embedded AI, industrial IoT, and smart energy projects for academic and industrial partners.
+
 ---
 
 ### 📝 Blog & Articles
@@ -107,7 +184,7 @@ Check out my latest articles on AI, Embedded Systems, and Smart Energy:
   Practical examples of combining AI and IoT for Industry 4.0 applications.
 
 - **[Embedded AI Algorithms on Microcontrollers](https://medium.com/@raciel/embedded-ai-algorithms-345678)**  
-  Step-by-step tutorial: running AI models on low-power embedded devices.
+  Step-by-Step Tutorial: Running AI Models on Low-Power Embedded Devices.
 
 📖 Read more on my [Blog](https://racielago.github.io/portfolio/blog) for tutorials, case studies, and projects.
 
@@ -145,8 +222,18 @@ Explore my full blog here 👉 [🔗 Visit My Blog](https://attheedge.super.site
 ### 🌐 Connect With Me
 
 <p align="center">
+  <!-- Recruiter-friendly (first row) -->
   <a href="https://www.linkedin.com/in/racieldavid/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:raciel@email.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://racieldavid.github.io"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white" /></a>
 </p>
+
+<p align="center">
+  <!-- Community & research (second row) -->
+  <a href="https://medium.com/@raciel"><img src="https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white" /></a>
+  <a href="https://www.researchgate.net/profile/Raciel_Lago"><img src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white" /></a>
+  <a href="https://yourblog.com"><img src="https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=blogger&logoColor=white"/></a>
+</p>
+
+<p align="center">📬 Feel free to reach out for collaborations, opportunities, or just a tech chat!</p>
 
