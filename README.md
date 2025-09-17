@@ -3,7 +3,7 @@
   
 # ⚡ Hello, I am Raciel D. Lago
 
-### Embedded Systems & AI Engineer · Building Edge-AI & IIoT Solutions for Smart Energy
+### Electrical & Embedded Systems Engineer · AI & IoT · Designing Intelligent and Sustainable Systems
 
 <!-- Driving energy efficiency and industrial innovation through embedded AI and secure, scalable IoT systems. -->
 
@@ -20,8 +20,7 @@
 
 ### 👨‍💻 About Me
 
-I am an **Electrical & Embedded Systems Engineer** specialising in intelligent system design for smart energy and industrial automation. My expertise lies in integrating **embedded AI, IoT, and real-time control** to develop sustainable and efficient solutions for power systems and manufacturing environments.
-
+I am an **Electrical & Embedded Systems Engineer** specialising in intelligent system design for smart energy and industrial automation. My work bridges hardware, software, and algorithms to develop sustainable and efficient solutions for power systems and manufacturing environments.
 I am actively seeking collaborative opportunities, open-source projects, and roles focused on innovation in the Edge AI and IIoT space.
 
 | **My Focus & Expertise**                                                                 | **My Goals & Interests**                                                               |
@@ -83,31 +82,20 @@ A selection of my work developing intelligent systems for smart energy and indus
 **|** [**Source Code**](https://github.com/racielago/embedded-ai-energy)
 
 ---
-### 💼 Professional Experience
+### 🌐 Connect With Me
 
-| Period | Role & Achievements |
-| :--- | :--- |
-| **2022 – Present** | **🎓 Professor of Electrical Engineering** – University of Oriente<br> • Lectured on electrical circuits and embedded systems fundamentals.<br> • Supervised 5+ undergraduate research projects in AIoT and smart energy applications. |
-| **2021 – 2022** | **🔬 AI Researcher** – Medical Biophysics Centre<br> • Developed a proof-of-concept Brain-Computer Interface (BCI) using Python, TensorFlow, and embedded C++ on ARM Cortex-M platforms.<br> • Co-authored a research paper on the application of ML for signal processing in neurotechnology. |
-| **2020 – Present** | **💻 Freelance Embedded AI & IoT Engineer**<br> • Delivered 3+ prototypes for clients in smart energy and industrial automation, utilising ESP32, Raspberry Pi, and sensor networks.<br> • Engineered an Edge AI solution for predictive maintenance that reduced simulated downtime by 25%. |
+<p align="center">
+  <!-- Recruiter-friendly (first row) -->
+  <a href="https://www.linkedin.com/in/racieldavid/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:raciel@email.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://racieldavid.github.io"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white" /></a>
+</p>
 
----
+<p align="center">
+  <!-- Community & research (second row) -->
+  <a href="https://medium.com/@raciel"><img src="https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white" /></a>
+  <a href="https://www.researchgate.net/profile/Raciel_Lago"><img src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white" /></a>
+  <a href="https://yourblog.com"><img src="https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=blogger&logoColor=white"/></a>
+</p>
 
-### 🎓 Education & Certifications
-
-#### Education
-| Period | Degree | Institution |
-| :--- | :--- | :--- |
-| 2023 – 2025 | **Master's in Electrical Engineering**<br> *Specialisation in Intelligent Systems* | University of Oriente, Cuba |
-| 2017 – 2022 | **Bachelor's in Electrical Engineering**<br> *Thesis: Edge AI for Smart Grid Optimisation* | University of Oriente, Cuba |
-
-#### Selected Certifications
-| Area | Certification | Issuer | Date | Credential |
-| :--- | :--- | :--- | :--- | :--- |
-| **Embedded IoT** | nRF Connect & IoT Fundamentals | Nordic Semiconductor Academy | 2024 | [View](https://example.com) |
-| **Artificial Intelligence** | TensorFlow Developer Certificate | Google | 2023 | [Verify](https://example.com) |
-| **Artificial Intelligence** | Embedded AI Engineering | Coursera | 2023 | [Verify](https://example.com) |
-| **Business** | Business Administration & Finance | LinkedIn Learning | 2023 | [View](https://example.com) |
-
-#### *For a complete overview of my credentials, please visit my [LinkedIn profile](https://www.linkedin.com/in/racieldavid/).*
----
+<p align="center">📬 Feel free to reach out for collaborations, opportunities, or just a tech chat!</p>
