@@ -112,17 +112,14 @@ I contribute to and maintain open-source projects that advance embedded AI and I
 ### 🌐 Connect With Me
 
 <p align="center">
-  <!-- Recruiter-friendly (first row) -->
-  <a href="https://www.linkedin.com/in/racieldavid/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:raciel@email.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://racieldavid.github.io"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white" /></a>
+  <!-- Professional -->
+  <a href="https://www.linkedin.com/in/racieldavid/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:raciel@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://racieldavid.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white" alt="Portfolio" /></a>
+  <!-- Community & Research -->
+  <a href="https://medium.com/@raciel"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://www.researchgate.net/profile/Raciel_Lago"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white" alt="ResearchGate" /></a>
+  <a href="https://yourblog.com"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white" alt="Blog" /></a>
 </p>
 
-<p align="center">
-  <!-- Community & research (second row) -->
-  <a href="https://medium.com/@raciel"><img src="https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white" /></a>
-  <a href="https://www.researchgate.net/profile/Raciel_Lago"><img src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white" /></a>
-  <a href="https://yourblog.com"><img src="https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=blogger&logoColor=white"/></a>
-</p>
-
-<p align="center">📬 Feel free to reach out for collaborations, opportunities, or just a tech chat!</p>
+<p align="center">📬 Open to discussing collaborations, new opportunities, and innovative technology.</p>
